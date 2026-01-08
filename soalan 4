@@ -1,0 +1,4 @@
+lenght = float(input("Enter lenght: ")) 
+width = float(input("Enter width: "))
+area =  lenght width
+print ("The area of rectangle is:" area)
